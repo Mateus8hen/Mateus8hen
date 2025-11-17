@@ -40,7 +40,7 @@ Me chamo Mateus Henrique Souza Santos, tenho 21 anos e sou de Minas Gerais. Atua
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
-    align="left" 
+    align="left".
     alt="React"
     title="React" 
     width="30px" 
