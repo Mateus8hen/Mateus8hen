@@ -117,14 +117,9 @@ Me chamo Mateus Henrique Souza Santos, tenho 21 anos e sou de Minas Gerais. Atua
 
 ### 📊 Estatísticas
 
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus8hen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p align="left">
+  <img 
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mateus8hen&theme=tokyonight&layout=compact"
   />
-
 </p>
-
