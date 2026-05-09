@@ -1,125 +1,46 @@
 # 👨‍💻 Mateus Henrique
 
-**`Desenvolvedor FullStack`**
+**FullStack Developer | C# & .NET | React | SQL**
 
-Me chamo Mateus Henrique Souza Santos, tenho 21 anos e sou de Minas Gerais. Atualmente, estudo Analise e Desenvolvimentos de Sistemas na faculdade Anhanguera de Belo Horizonte. Sou apaixonado por tecnologia, gosto de criar coisas do zero e sempre fui muito curioso pra entender como tudo funciona por trás das telas. Estou sempre buscando aprender algo novo, botar a mão na massa e evoluir como desenvolvedor. Aqui no meu GitHub você vai encontrar alguns dos projetos que venho construindo nessa jornada.
+Olá! Sou o Mateus, um desenvolvedor de Minas Gerais apaixonado por entender a engenharia por trás das telas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** (Anhanguera), busco criar soluções eficientes e escaláveis, unindo a robustez do ecossistema Microsoft no backend à agilidade do React no frontend.
 
+---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Sobre Mim
+- 🏫 Cursando ADS em Belo Horizonte.
+- ⚙️ Foco atual: **Arquitetura de Sistemas** e **Clean Code**.
+- 🛠️ Experiência prática em modelagem de dados e diagramas UML.
+- 🌱 No momento, aprofundando em **Entity Framework Core** e **React Hooks**.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img
-    align="left"
-    alt="React"
-    title="React" 
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt=".NET Core" 
-    title=".NET Core"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
+
+### 🛠️ Tech Stack
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Backend** | `.NET`, `C#`, `PHP`, `Python` |
+| **Frontend** | `React`, `Angular`, `JavaScript`, `CSS3 / HTML5` |
+| **Dados** | `MySQL`, `PostgreSQL`, `Entity Framework` |
+| **Ferramentas** | `Git / GitHub`, `Docker`, `UML` |
 
 <br/>
-<br/>
 
-### 📊 Estatísticas
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" title="C#" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" title="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="Git" />
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" title="Git" />
+    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" title="Git" />
+</div>
+-- 
 
-<p align="left">
-  <img 
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mateus8hen&theme=tokyonight&layout=compact"
-  />
-</p>
+### 📫 Vamos Conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-henrique-ba4b5a2a7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mateus8hen@gmail.com)
+
+---
