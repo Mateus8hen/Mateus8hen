@@ -1,6 +1,6 @@
 # 👨‍💻 Mateus Henrique
 
-**FullStack Developer | C# & .NET | React | SQL**
+**FullStack Developer 
 
 Olá! Sou o Mateus, um desenvolvedor de Minas Gerais apaixonado por entender a engenharia por trás das telas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** (Anhanguera), busco criar soluções eficientes e escaláveis, unindo a robustez do ecossistema.
 
@@ -36,7 +36,7 @@ Olá! Sou o Mateus, um desenvolvedor de Minas Gerais apaixonado por entender a e
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" title="Git" />
     <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" title="Git" />
 </div>
--- 
+
 
 ### 📫 Vamos Conversar?
 
