@@ -2,7 +2,7 @@
 
 **FullStack Developer | C# & .NET | React | SQL**
 
-Olá! Sou o Mateus, um desenvolvedor de Minas Gerais apaixonado por entender a engenharia por trás das telas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** (Anhanguera), busco criar soluções eficientes e escaláveis, unindo a robustez do ecossistema Microsoft no backend à agilidade do React no frontend.
+Olá! Sou o Mateus, um desenvolvedor de Minas Gerais apaixonado por entender a engenharia por trás das telas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** (Anhanguera), busco criar soluções eficientes e escaláveis, unindo a robustez do ecossistema.
 
 ---
 
