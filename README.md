@@ -10,7 +10,7 @@ Olá! Sou o Mateus, um desenvolvedor de Minas Gerais apaixonado por entender a e
 - 🏫 Cursando ADS em Belo Horizonte.
 - ⚙️ Foco atual: **Arquitetura de Sistemas** e **Clean Code**.
 - 🛠️ Experiência prática em modelagem de dados e diagramas UML.
-- 🌱 No momento, aprofundando em **Entity Framework Core** e **React Hooks**.
+- 🌱 No momento, aprofundando em **Entity Framework Core** e **.NET**.
 
 ---
 
