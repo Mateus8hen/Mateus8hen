@@ -1,6 +1,6 @@
 # 👨‍💻 Mateus Henrique
 
-**FullStack Developer 
+*FullStack Developer* 
 
 Olá! Sou o Mateus, um desenvolvedor de Minas Gerais apaixonado por entender a engenharia por trás das telas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** (Anhanguera), busco criar soluções eficientes e escaláveis, unindo a robustez do ecossistema.
 
